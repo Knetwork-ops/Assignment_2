@@ -1,0 +1,59 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+
+p {
+    margin-bottom: 1rem;
+    font-size: inherit;
+    font-weight: bold;
+    line-height: 1.6;
+    text-rendering: optimizeLegibility;
+}
+
+m{
+    
+    margin-bottom: 1rem;
+    font-size: inherit;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    line-height: 3;
+    text-rendering: optimizeLegibility;
+}
+
+
+l{
+    margin-bottom: 1rem;
+    font-size: inherit;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.6;
+    text-rendering: optimizeLegibility;
+}
+.navbar-brand {
+    padding: 0 15px;
+    height: 80px;
+    line-height: 80px;
+  }
+
+.navbar-nav{
+    padding: 0 100px;
+    height: 80px;
+    line-height: 80px;
+
+}
+
+.bgimage1 {
+    background-image: url('img2.png');
+    background-position: center center;
+    background-size: cover;
+    height: auto;
+  }
+  .bgimage2 {
+    background-image: url('img2.png');
+    background-position: center center;
+    background-size: cover;
+    background-blend-mode: lighten;
+    height: auto;
+  }
